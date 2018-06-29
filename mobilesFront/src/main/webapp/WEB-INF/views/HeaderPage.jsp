@@ -24,7 +24,7 @@
 
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Selva Watch</a>
+      <a class="navbar-brand" href="#">Selva Mobiles</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Home</a></li>
